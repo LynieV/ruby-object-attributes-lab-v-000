@@ -19,9 +19,5 @@ end
 fido = Dog.new
 fido.name = "Fido"
 
-puts fido.name
-
 breed = Dog.new
 breed.name = "Beagle"
-
-puts breed.name
